@@ -1,4 +1,4 @@
-# ESP32 Wi-Fi Provisioning with C++ & ESP-IDF
+# ESP32 Wi-Fi Provisioning Using a Web Interface with ESP-IDF
 
 A robust, object-oriented firmware for ESP32 enabling Wi-Fi connectivity and provisioning via a responsive web interface.
 
@@ -12,7 +12,7 @@ A robust, object-oriented firmware for ESP32 enabling Wi-Fi connectivity and pro
 
 ### 📖 Description
 
-This project is an advanced ESP32 firmware for managing Wi-Fi connectivity using the ESP-IDF framework and FreeRTOS. It provides a web-based provisioning interface to configure Wi-Fi credentials, which are persistently stored using Non-Volatile Storage (NVS). The web assets are served from a dedicated LittleFS partition. The firmware is designed with a modular, object-oriented architecture for excellent scalability and maintainability.
+This project is an advanced ESP32 firmware for managing Wi-Fi connectivity using the ESP-IDF framework. It provides a web-based provisioning interface to configure Wi-Fi credentials, which are persistently stored using Non-Volatile Storage (NVS). The web assets are served from a dedicated LittleFS partition. The firmware is designed with a modular, object-oriented architecture for excellent scalability and maintainability.
 
 ### ✨ Showcase
 
