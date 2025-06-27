@@ -53,8 +53,7 @@ Follow these steps to set up, build, and run the project on your ESP32.
 Clone this repository to your local machine.
 
 ```bash
-git clone https://github.com/your-username/esp-idf-wificonfiguration.git
-cd esp-idf-wificonfiguration
+git clone https://github.com/Ariif0/ESPIDF-WiFi-Configuration.git
 ```
 
 #### 2\. Configure the Project
